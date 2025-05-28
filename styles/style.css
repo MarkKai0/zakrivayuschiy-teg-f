@@ -10,11 +10,6 @@
 
 */
 
-/*.page {
-  min-inline-size: 320px;
-  min-block-size: 100dvb;
-}*/
-
 .page {
   padding-block-start: 100px;
   font-family: var(--main-font, sans-serif), sans-serif;
